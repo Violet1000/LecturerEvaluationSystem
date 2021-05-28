@@ -1,0 +1,13 @@
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\bin\Debug\LecturerEvaluationSystem.exe.config
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\bin\Debug\LecturerEvaluationSystem.exe
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\bin\Debug\LecturerEvaluationSystem.pdb
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\bin\Debug\LecturerEvaluationSystem.xml
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\obj\Debug\LecturerEvaluationSystem.FormStudentFeedback.resources
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\obj\Debug\LecturerEvaluationSystem.Resources.resources
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\obj\Debug\LecturerEvaluationSystem.vbproj.GenerateResource.cache
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\obj\Debug\LecturerEvaluationSystem.vbproj.CoreCompileInputs.cache
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\obj\Debug\LecturerEvaluationSystem.exe
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\obj\Debug\LecturerEvaluationSystem.xml
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\obj\Debug\LecturerEvaluationSystem.pdb
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\obj\Debug\LecturerEvaluationSystem.FormLogin.resources
+C:\Users\KSP\source\repos\LecturerEvaluationSystem\obj\Debug\LecturerEvaluationSystem.vbproj.AssemblyReference.cache
